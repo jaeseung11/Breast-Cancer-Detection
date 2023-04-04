@@ -71,5 +71,10 @@ sample_submission.csv A valid sample submission. Only the first few rows are ava
 
 ## 6. 탐색적 데이터 분석
 
+![image](https://user-images.githubusercontent.com/114135983/229939564-f1e0ca5d-37de-48e1-b26c-7c4897c3ab85.png) ![image](https://user-images.githubusercontent.com/114135983/229939595-5aef6331-a9d2-46ae-b012-a46e781feeca.png)
+
+
+
+
 
 
