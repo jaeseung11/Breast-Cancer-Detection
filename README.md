@@ -83,19 +83,31 @@ sample_submission.csv A valid sample submission. Only the first few rows are ava
 
 ### 데이터 분포
 
+- 데이터 불균형이 나타나는 컬럼들이 존재 한다. CV 모델링에서 과소적합이 나올 확률이 높음.
+
 ![image](https://user-images.githubusercontent.com/114135983/229943333-c2503594-35be-4cf9-b1a2-c4373bba1a32.png)
 
-### 
+### 유방암 찍는 각도 데이터 
 
 - 유방암에서 찍는 각도가 ML, LM, AT, LMO 종류가 있다. 제일 많이 나온것은 AT에서 찍은 것의 데이터가 많다는 것은 유방암을 구분하는 각
   도임을 밝힘. 
 
 ![image](https://user-images.githubusercontent.com/114135983/229943443-21262994-1b20-4c5b-b079-dcccf60adb79.png)
 
+### 두변수간 상관 관계도
 
+![image](https://user-images.githubusercontent.com/114135983/229945773-35483a7f-0f29-4d1f-9367-e7f77af539fa.png)
 
+### 나이 <-> 암의 관계
 
+- 50후반에서 70대까지 많이 나오는 것으로 판단.
 
+![image](https://user-images.githubusercontent.com/114135983/229946352-9dd9610b-dd0f-48d8-bc05-fc7544887078.png)
 
+### 유방암밀도 <-> 침습성의 관계 
+
+- 밀도가 높을수록 암 발생률이 높다. 그 이유는 암이라는 세포는 전이되는 생체이기에 세포사이의 전달되는 매체가 많으면 전이되는 속도가 높기 때문이다.
+
+![image](https://user-images.githubusercontent.com/114135983/229946577-f9d419cb-408b-4bc5-af03-a5dee533bec1.png)
 
 
