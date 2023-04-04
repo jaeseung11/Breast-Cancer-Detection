@@ -69,6 +69,7 @@ sample_submission.csv A valid sample submission. Only the first few rows are ava
 #### difficult_negative_case - True if the case was unusually difficult. Only provided for train.
 
 
-## 6. 
+## 6. 탐색적 데이터 분석
+
 
 
