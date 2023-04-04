@@ -71,10 +71,28 @@ sample_submission.csv A valid sample submission. Only the first few rows are ava
 
 ## 6. 탐색적 데이터 분석
 
-- train, test 결측치는 없음 
+### 결측치 존재: ![image](https://user-images.githubusercontent.com/114135983/229943040-6b4201ec-2a9e-49a9-885f-5c16198cd235.png)
 
-![image](https://user-images.githubusercontent.com/114135983/229939564-f1e0ca5d-37de-48e1-b26c-7c4897c3ab85.png) 
-![image](https://user-images.githubusercontent.com/114135983/229939595-5aef6331-a9d2-46ae-b012-a46e781feeca.png)
+### 중복값 없음
+
+### 데이터 종류 및 수
+
+#### 다양한 데이터 값들이 존재
+
+![image](https://user-images.githubusercontent.com/114135983/229943174-fdba0d03-8592-43f4-8996-8b336d9e3cd9.png)
+
+### 데이터 분포
+
+![image](https://user-images.githubusercontent.com/114135983/229943333-c2503594-35be-4cf9-b1a2-c4373bba1a32.png)
+
+### 
+
+- 유방암에서 찍는 각도가 ML, LM, AT, LMO 종류가 있다. 제일 많이 나온것은 AT에서 찍은 것의 데이터가 많다는 것은 유방암을 구분하는 각
+  도임을 밝힘. 
+
+![image](https://user-images.githubusercontent.com/114135983/229943443-21262994-1b20-4c5b-b079-dcccf60adb79.png)
+
+
 
 
 
